@@ -1,0 +1,1 @@
+alias weathertest='telnet rainmaker.wunderground.com'
